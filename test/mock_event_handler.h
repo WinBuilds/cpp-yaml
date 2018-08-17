@@ -1,5 +1,5 @@
-#include "yaml-cpp/emitterstyle.h"
-#include "yaml-cpp/eventhandler.h"
+#include "yamlcpp/emitterstyle.h"
+#include "yamlcpp/eventhandler.h"
 
 #include "gmock/gmock.h"
 

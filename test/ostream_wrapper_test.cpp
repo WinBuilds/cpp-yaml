@@ -2,7 +2,7 @@
 #include <sstream>
 
 #include "gtest/gtest.h"
-#include "yaml-cpp/ostream_wrapper.h"
+#include "yamlcpp/ostream_wrapper.h"
 
 namespace {
 TEST(OstreamWrapperTest, BufferNoWrite) {

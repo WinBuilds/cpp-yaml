@@ -7,8 +7,8 @@
 #pragma once
 #endif
 
-#include "yaml-cpp/noncopyable.h"
-#include "yaml-cpp/mark.h"
+#include "yamlcpp/noncopyable.h"
+#include "yamlcpp/mark.h"
 #include <cstddef>
 #include <deque>
 #include <ios>

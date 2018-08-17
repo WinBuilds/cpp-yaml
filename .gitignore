@@ -1,2 +1,10 @@
 build/
+buld-*/
+build_*/
 /tags
+.vs
+ipch
+*.VC.db
+*.VC.opendb
+*.aps
+*.lnk

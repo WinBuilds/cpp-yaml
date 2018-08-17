@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="..\..\test\handler_test.h" />
+    <ClInclude Include="..\..\test\mock_event_handler.h" />
+    <ClInclude Include="..\..\test\specexamples.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\test\main.cpp" />
+    <ClCompile Include="..\..\test\ostream_wrapper_test.cpp" />
+    <ClCompile Include="..\..\test\regex_test.cpp" />
+    <ClCompile Include="..\..\test\integration\emitter_test.cpp" />
+    <ClCompile Include="..\..\test\integration\encoding_test.cpp" />
+    <ClCompile Include="..\..\test\integration\gen_emitter_test.cpp" />
+    <ClCompile Include="..\..\test\integration\handler_spec_test.cpp" />
+    <ClCompile Include="..\..\test\integration\handler_test.cpp" />
+    <ClCompile Include="..\..\test\integration\load_node_test.cpp" />
+    <ClCompile Include="..\..\test\integration\node_spec_test.cpp" />
+    <ClCompile Include="..\..\test\node\node_test.cpp" />
+    <ClCompile Include="..\..\test\gtest-1.8.0\googlemock\src\gmock-all.cc">
+      <Filter>gtest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\test\gtest-1.8.0\googletest\src\gtest-all.cc">
+      <Filter>gtest</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="gtest">
+      <UniqueIdentifier>{e078929f-9c8e-40f2-8225-3ef946923aed}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

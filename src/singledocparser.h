@@ -11,8 +11,8 @@
 #include <memory>
 #include <string>
 
-#include "yaml-cpp/anchor.h"
-#include "yaml-cpp/noncopyable.h"
+#include "yamlcpp/anchor.h"
+#include "yamlcpp/noncopyable.h"
 
 namespace YAML {
 class CollectionStack;

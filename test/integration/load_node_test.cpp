@@ -1,4 +1,4 @@
-#include "yaml-cpp/yaml.h"  // IWYU pragma: keep
+#include "yamlcpp/yaml.h"  // IWYU pragma: keep
 
 #include "gtest/gtest.h"
 

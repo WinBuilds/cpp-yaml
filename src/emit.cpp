@@ -1,6 +1,6 @@
-#include "yaml-cpp/node/emit.h"
-#include "yaml-cpp/emitfromevents.h"
-#include "yaml-cpp/emitter.h"
+#include "yamlcpp/node/emit.h"
+#include "yamlcpp/emitfromevents.h"
+#include "yamlcpp/emitter.h"
 #include "nodeevents.h"
 
 namespace YAML {

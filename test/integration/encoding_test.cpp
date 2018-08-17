@@ -1,7 +1,7 @@
 #include <sstream>
 
 #include "handler_test.h"
-#include "yaml-cpp/yaml.h"  // IWYU pragma: keep
+#include "yamlcpp/yaml.h"  // IWYU pragma: keep
 
 #include "gtest/gtest.h"
 

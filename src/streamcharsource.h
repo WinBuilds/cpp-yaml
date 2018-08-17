@@ -7,7 +7,7 @@
 #pragma once
 #endif
 
-#include "yaml-cpp/noncopyable.h"
+#include "yamlcpp/noncopyable.h"
 #include <cstddef>
 
 namespace YAML {

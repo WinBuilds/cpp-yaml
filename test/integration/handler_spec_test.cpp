@@ -1,6 +1,6 @@
 #include "handler_test.h"
 #include "specexamples.h"   // IWYU pragma: keep
-#include "yaml-cpp/yaml.h"  // IWYU pragma: keep
+#include "yamlcpp/yaml.h"  // IWYU pragma: keep
 
 #include "gmock/gmock.h"
 #include "gtest/gtest.h"

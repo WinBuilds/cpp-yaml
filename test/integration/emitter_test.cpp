@@ -1,6 +1,6 @@
-#include "yaml-cpp/emitterstyle.h"
-#include "yaml-cpp/eventhandler.h"
-#include "yaml-cpp/yaml.h"  // IWYU pragma: keep
+#include "yamlcpp/emitterstyle.h"
+#include "yamlcpp/eventhandler.h"
+#include "yamlcpp/yaml.h"  // IWYU pragma: keep
 #include "gtest/gtest.h"
 
 namespace YAML {

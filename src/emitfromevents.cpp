@@ -1,10 +1,10 @@
 #include <cassert>
 #include <sstream>
 
-#include "yaml-cpp/emitfromevents.h"
-#include "yaml-cpp/emitter.h"
-#include "yaml-cpp/emittermanip.h"
-#include "yaml-cpp/null.h"
+#include "yamlcpp/emitfromevents.h"
+#include "yamlcpp/emitter.h"
+#include "yamlcpp/emittermanip.h"
+#include "yamlcpp/null.h"
 
 namespace YAML {
 struct Mark;

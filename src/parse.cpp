@@ -1,11 +1,11 @@
-#include "yaml-cpp/node/parse.h"
+#include "yamlcpp/node/parse.h"
 
 #include <fstream>
 #include <sstream>
 
-#include "yaml-cpp/node/node.h"
-#include "yaml-cpp/node/impl.h"
-#include "yaml-cpp/parser.h"
+#include "yamlcpp/node/node.h"
+#include "yamlcpp/node/impl.h"
+#include "yamlcpp/parser.h"
 #include "nodebuilder.h"
 
 namespace YAML {

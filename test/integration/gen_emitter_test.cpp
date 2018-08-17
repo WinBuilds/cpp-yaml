@@ -1,5 +1,5 @@
 #include "handler_test.h"
-#include "yaml-cpp/yaml.h"
+#include "yamlcpp/yaml.h"
 #include "gmock/gmock.h"
 #include "gtest/gtest.h"
 

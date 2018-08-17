@@ -2,8 +2,8 @@
 #include <iostream>
 #include <vector>
 
-#include "yaml-cpp/eventhandler.h"
-#include "yaml-cpp/yaml.h"  // IWYU pragma: keep
+#include "yamlcpp/eventhandler.h"
+#include "yamlcpp/yaml.h"  // IWYU pragma: keep
 
 struct Params {
   bool hasFile;
